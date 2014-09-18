@@ -1,0 +1,12 @@
+Database :
+
+Entitas : Pegawai, Jam kerja, kegiatan, bidang
+
+
+Pegawai : nama, nip, tmpt, tgl lahir, jabatan, gaji, golongan
+
+Jam kerja : jam masuk, jam keluar (jam keluar lebih dari normal maka di hitung sebagai lembur)
+
+Kegiatan : Jenis kegiatan, no.kegiatan, uraian kegiatan
+
+Bidang : nama, no.bidang, pegawai(eksternal entity)
