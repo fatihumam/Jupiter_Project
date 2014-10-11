@@ -1,4 +1,4 @@
-CREATE TABLE jam_kerja(
+CREATE TABLE jamkerja(
 	id_jam int(11),
 	JamMsuk int NOT NULL,
 	JamKeluar int NOT NULL,
