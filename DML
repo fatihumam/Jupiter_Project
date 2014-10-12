@@ -1,0 +1,44 @@
+INSERT INTO jamkerja(id_jam,jamMasuk,jamKeluar,nama_belakang) VALUES ('12930989341','06.15','17.00');
+INSERT INTO jamkerja(id_jam,jamMasuk,jamKeluar,nama_belakang) VALUES ('12930989342','06.20','17.05');
+INSERT INTO jamkerja(id_jam,jamMasuk,jamKeluar,nama_belakang) VALUES ('12930989343','06.25','17.10');
+INSERT INTO jamkerja(id_jam,jamMasuk,jamKeluar,nama_belakang) VALUES ('12930989344','06.24','17.32');
+INSERT INTO jamkerja(id_jam,jamMasuk,jamKeluar,nama_belakang) VALUES ('12930989345','06.30','17.15');
+INSERT INTO jamkerja(id_jam,jamMasuk,jamKeluar,nama_belakang) VALUES ('12930989346','06.45','17.21');
+INSERT INTO jamkerja(id_jam,jamMasuk,jamKeluar,nama_belakang) VALUES ('12930989347','06.50','17.41');
+INSERT INTO jamkerja(id_jam,jamMasuk,jamKeluar,nama_belakang) VALUES ('12930989348','07.00','17.31');
+INSERT INTO jamkerja(id_jam,jamMasuk,jamKeluar,nama_belakang) VALUES ('12930989349','07.15','17.50');
+INSERT INTO jamkerja(id_jam,jamMasuk,jamKeluar,nama_belakang) VALUES ('12930989350','07.20','17.55');
+
+INSERT INTO pegawai(nip,nama,ttl,jabatan,golongan,gaji) VALUES ('112838117381','Andi','18-JAN-1985','KEPALA DINAS','IV C','3470000');
+INSERT INTO pegawai(nip,nama,ttl,jabatan,golongan,gaji) VALUES ('112838117381','Anto','12-FEB-1981','SEKRETARIS DINAS','IV A','2821400');
+INSERT INTO pegawai(nip,nama,ttl,jabatan,golongan,gaji) VALUES ('112838117381','Dina','20-APR-1980','KEPALA BIDANG POS DAN TELEKOMUNIKASI','IV B','3128900');
+INSERT INTO pegawai(nip,nama,ttl,jabatan,golongan,gaji) VALUES ('112838117381','Dona','29-MEI-1982','KEPALA BIDANG SARANA KOMUNIKASI DAN DISEMINASI INFORMASI,'IV B','3128900');
+INSERT INTO pegawai(nip,nama,ttl,jabatan,golongan,gaji) VALUES ('112838117381','Sari','30-JUN-1983','KEPALA SEKSI PENYAJIAN DATA DAN INFORMASI ','III C','2678900');
+INSERT INTO pegawai(nip,nama,ttl,jabatan,golongan,gaji) VALUES ('112838117381','Jarot','11-JUL-1986','KEPALA SEKSI KOMUNIKASI PEMERINTAHAN DAN PEMERINTAHAN DAERAH','III D','2792200');
+INSERT INTO pegawai(nip,nama,ttl,jabatan,golongan,gaji) VALUES ('112838117381','Tari','09-OCT-1987','KEPALA SEKSI PENYIARAN DAN KEMITRAAAN MEDIA','IV A','2821400');
+INSERT INTO pegawai(nip,nama,ttl,jabatan,golongan,gaji) VALUES ('112838117381','Asep','01-SEP-1980','KEPALA SEKSI KOMUNIKASI SOSIAL','III D','2792200');
+INSERT INTO pegawai(nip,nama,ttl,jabatan,golongan,gaji) VALUES ('112838117381','Udin','21-NOV-1982','KEPALA SEKSI PENGEMBANGAN TELEMATIKA','III C','2678900');
+INSERT INTO pegawai(nip,nama,ttl,jabatan,golongan,gaji) VALUES ('112838117381','Ipul','25-DES-1982','KEPALA SEKSI DUKUNGAN PENDAYAGUNAAN TIK','III B','2570200');
+
+INSERT INTO bidang(noBidang,nama) VALUES ('13478739211','Andi');
+INSERT INTO bidang(noBidang,nama) VALUES ('13478739212','Anto');
+INSERT INTO bidang(noBidang,nama) VALUES ('13478739213','Dina');
+INSERT INTO bidang(noBidang,nama) VALUES ('13478739214','Dona');
+INSERT INTO bidang(noBidang,nama) VALUES ('13478739215','Sari');
+INSERT INTO bidang(noBidang,nama) VALUES ('13478739216','Jarot');
+INSERT INTO bidang(noBidang,nama) VALUES ('13478739217','Tari');
+INSERT INTO bidang(noBidang,nama) VALUES ('13478739218','Asep');
+INSERT INTO bidang(noBidang,nama) VALUES ('13478739219','Udin');
+INSERT INTO bidang(noBidang,nama) VALUES ('13478739220','Ipul');
+
+INSERT INTO kegiatan(noKegiatan,jenisKegiatan,uraianKegiatan) VALUES (14837937321','cek','qeqeqe');
+INSERT INTO kegiatan(noKegiatan,jenisKegiatan,uraianKegiatan) VALUES (14837937322','cek','qeqeqe');
+INSERT INTO kegiatan(noKegiatan,jenisKegiatan,uraianKegiatan) VALUES (14837937323','cek','qeqeqe');
+INSERT INTO kegiatan(noKegiatan,jenisKegiatan,uraianKegiatan) VALUES (14837937324','cek','qeqeqe');
+INSERT INTO kegiatan(noKegiatan,jenisKegiatan,uraianKegiatan) VALUES (14837937325','cek','qeqeqe');
+INSERT INTO kegiatan(noKegiatan,jenisKegiatan,uraianKegiatan) VALUES (14837937326','cek','qeqeqe');
+INSERT INTO kegiatan(noKegiatan,jenisKegiatan,uraianKegiatan) VALUES (14837937327','cek','qeqeqe');
+INSERT INTO kegiatan(noKegiatan,jenisKegiatan,uraianKegiatan) VALUES (14837937328','cek','qeqeqe');
+INSERT INTO kegiatan(noKegiatan,jenisKegiatan,uraianKegiatan) VALUES (14837937329','cek','qeqeqe');
+INSERT INTO kegiatan(noKegiatan,jenisKegiatan,uraianKegiatan) VALUES (14837937330','cek','qeqeqe');
+
