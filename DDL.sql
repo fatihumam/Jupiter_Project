@@ -1,7 +1,7 @@
 CREATE TABLE jamkerja(
 	id_jam int(11),
-	JamMsuk int NOT NULL,
-	JamKeluar int NOT NULL,
+	jamMasuk time NOT NULL,
+	jamKeluar time NOT NULL,
 	constraint pk_jam_kerja primary key(id_jam)
 );
 
