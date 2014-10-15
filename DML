@@ -31,14 +31,14 @@ INSERT INTO bidang(noBidang,nama) VALUES ('13478739218','Asep');
 INSERT INTO bidang(noBidang,nama) VALUES ('13478739219','Udin');
 INSERT INTO bidang(noBidang,nama) VALUES ('13478739220','Ipul');
 
-INSERT INTO kegiatan(noKegiatan,jenisKegiatan,uraianKegiatan) VALUES (14837937321','cek','qeqeqe');
-INSERT INTO kegiatan(noKegiatan,jenisKegiatan,uraianKegiatan) VALUES (14837937322','cek','qeqeqe');
-INSERT INTO kegiatan(noKegiatan,jenisKegiatan,uraianKegiatan) VALUES (14837937323','cek','qeqeqe');
-INSERT INTO kegiatan(noKegiatan,jenisKegiatan,uraianKegiatan) VALUES (14837937324','cek','qeqeqe');
-INSERT INTO kegiatan(noKegiatan,jenisKegiatan,uraianKegiatan) VALUES (14837937325','cek','qeqeqe');
-INSERT INTO kegiatan(noKegiatan,jenisKegiatan,uraianKegiatan) VALUES (14837937326','cek','qeqeqe');
-INSERT INTO kegiatan(noKegiatan,jenisKegiatan,uraianKegiatan) VALUES (14837937327','cek','qeqeqe');
-INSERT INTO kegiatan(noKegiatan,jenisKegiatan,uraianKegiatan) VALUES (14837937328','cek','qeqeqe');
-INSERT INTO kegiatan(noKegiatan,jenisKegiatan,uraianKegiatan) VALUES (14837937329','cek','qeqeqe');
-INSERT INTO kegiatan(noKegiatan,jenisKegiatan,uraianKegiatan) VALUES (14837937330','cek','qeqeqe');
+INSERT INTO kegiatan(noKegiatan,jenisKegiatan,uraianKegiatan) VALUES (14837937321','cek','bekerja');
+INSERT INTO kegiatan(noKegiatan,jenisKegiatan,uraianKegiatan) VALUES (14837937322','cek','bekerja');
+INSERT INTO kegiatan(noKegiatan,jenisKegiatan,uraianKegiatan) VALUES (14837937323','cek','bekerja');
+INSERT INTO kegiatan(noKegiatan,jenisKegiatan,uraianKegiatan) VALUES (14837937324','cek','bekerja');
+INSERT INTO kegiatan(noKegiatan,jenisKegiatan,uraianKegiatan) VALUES (14837937325','cek','bekerja');
+INSERT INTO kegiatan(noKegiatan,jenisKegiatan,uraianKegiatan) VALUES (14837937326','cek','bekerja');
+INSERT INTO kegiatan(noKegiatan,jenisKegiatan,uraianKegiatan) VALUES (14837937327','cek','bekerja');
+INSERT INTO kegiatan(noKegiatan,jenisKegiatan,uraianKegiatan) VALUES (14837937328','cek','bekerja');
+INSERT INTO kegiatan(noKegiatan,jenisKegiatan,uraianKegiatan) VALUES (14837937329','cek','bekerja');
+INSERT INTO kegiatan(noKegiatan,jenisKegiatan,uraianKegiatan) VALUES (14837937330','cek','bekerja');
 
