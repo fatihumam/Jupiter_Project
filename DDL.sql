@@ -1,9 +1,10 @@
-CREATE TABLE jamkerja(
+CREATE TABLE jamKerja(
 	id_jam int(11),
 	jamMasuk time NOT NULL,
 	jamKeluar time NOT NULL,
 	constraint pk_jam_kerja primary key(id_jam)
 );
+
 
 CREATE TABLE pegawai(
 	nip varchar(20) NOT NULL,
@@ -17,11 +18,13 @@ CREATE TABLE pegawai(
 	constraint fk_pegawai_Bidang foreign key(noBidang) references bidang on delete cascade
 );
 
+
 CREATE TABLE bidang(
 	noBidang varchar(20),
 	nama varchar(30) NOT NULL,
 	constraint pk_bidang primary key(noBidang)
 );
+
 
 CREATE TABLE kegiatan(
 	noKegiatan int(11),
