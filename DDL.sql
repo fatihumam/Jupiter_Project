@@ -15,7 +15,7 @@ CREATE TABLE pegawai(
 	gaji int(11) NOT NULL,
 	constraint pk_pegawai primary key(nip),
 	constraint fk_pegawai_jam_kerja foreign key(id_jam) references jam_kerja on delete cascade,
-	constraint fk_pegawai_Bidang foreign key(noBidang) references bidang on delete cascade
+	constraint fk_pegawai_bidang foreign key(noBidang) references bidang on delete cascade
 );
 
 
