@@ -19,7 +19,10 @@ class Welcome extends CI_Controller {
 	 */
 	public function index()
 	{
-		$this->load->view('welcome_message');
+		$this->load->model('_bidang');
+		$data['result']=$this->_bidang->getby();
+		$data['title']='lalala';
+		$this->load->view('index',$data);
 	}
 }
 
