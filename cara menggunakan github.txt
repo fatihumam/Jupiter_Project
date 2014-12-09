@@ -1,0 +1,6 @@
+cd ke jupiter project di c
+git status
+git add .
+git commit -m "ini buat laporan sisfo-nya,, edit2 yang ini ya"
+git pull origin master
+git push origin master
