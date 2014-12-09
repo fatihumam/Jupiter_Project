@@ -9,3 +9,8 @@ Anggita Sidiq Budiyanto (1103120074) (aldoanggibarreto);
 
 
 Untuk Penjelasan tentang poyek ini silakan download slide kami, terima kasih
+
+
+How to
+======
+Clone project ini ke xampp/htdocs
